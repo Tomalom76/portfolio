@@ -1,6 +1,8 @@
 
 # Projekt wdrożenia dwóch modeli ML pracujących w tandemie mających na celu przewidzieć stan mieszkania w podanym ogłoszeniu lub całej bazie ogłoszeń oraz podać jego przewidywaną wartość w PLN.
 
+Czas rozpoczęcia: 2 kwiecień 2025
+
 Celem głównym projektu jest analiza bazy danych ogłoszeń sprzedaży mieszkań, a w następnej 
 kolejności na podstawie opisu z ogłoszenia i innych parametrów ocenić jego stan oraz podać
 przewidywaną cenę. 
@@ -13,7 +15,7 @@ stanu mieszkań i przewidywanej ceny.
 Stan: gotowe do wdrożenia
 
 <figure markdown="1">
-  <img src="https://raw.githubusercontent.com/Tomalom76/portfolio/main/docs/Investoro/images/Thermal1plan.jpg" alt="Investoro project1" width="300">
+  <img src="https://raw.githubusercontent.com/Tomalom76/portfolio/main/docs/Investoro/images/plan.jpg" alt="Investoro project1" width="300">
   <figcaption>Plan działania aplikacji</figcaption>
 </figure>
 
