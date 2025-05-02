@@ -13,10 +13,8 @@
       
       
       
-        <link rel="prev" href="..">
+        <link rel="prev" href="../Titanic/">
       
-      
-        <link rel="next" href="../Titanic/">
       
       
       <link rel="icon" href="../assets/images/favicon.png">
@@ -24,7 +22,7 @@
     
     
       
-        <title>Predykcja cen i stanów mieszkań - Moje projekty</title>
+        <title>Thermal - Moje projekty</title>
       
     
     
@@ -83,7 +81,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#projekt-wdrozenia-dwoch-modeli-ml-pracujacych-w-tandemie-majacych-na-celu-przewidziec-stan-mieszkania-w-podanym-ogoszeniu-lub-caej-bazie-ogoszen-oraz-podac-jego-przewidywana-wartosc-w-pln" class="md-skip">
+        <a href="#projekt-thermal" class="md-skip">
           Skip to content
         </a>
       
@@ -119,7 +117,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Predykcja cen i stanów mieszkań
+              Thermal
             
           </span>
         </div>
@@ -218,20 +216,18 @@
       
   
   
-    
   
   
-  
     
     
     
     
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
         
           
           <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
@@ -247,7 +243,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_2">
             <span class="md-nav__icon md-icon"></span>
             Obecny projekt
@@ -258,19 +254,10 @@
                 
   
   
-    
   
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../Investoro/" class="md-nav__link">
         
   
   
@@ -281,7 +268,6 @@
   
 
       </a>
-      
     </li>
   
 
@@ -298,18 +284,20 @@
       
   
   
+    
   
   
+  
     
     
     
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
         
           
           <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
@@ -325,7 +313,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_3">
             <span class="md-nav__icon md-icon"></span>
             Poprzednie projekty
@@ -359,10 +347,19 @@
                 
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../Thermal/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   
@@ -373,6 +370,7 @@
   
 
       </a>
+      
     </li>
   
 
@@ -422,16 +420,18 @@
   
 
 
-<h1 id="projekt-wdrozenia-dwoch-modeli-ml-pracujacych-w-tandemie-majacych-na-celu-przewidziec-stan-mieszkania-w-podanym-ogoszeniu-lub-caej-bazie-ogoszen-oraz-podac-jego-przewidywana-wartosc-w-pln">Projekt wdrożenia dwóch modeli ML pracujących w tandemie mających na celu przewidzieć stan mieszkania w podanym ogłoszeniu lub całej bazie ogłoszeń oraz podać jego przewidywaną wartość w PLN.</h1>
-<p>Celem głównym projektu jest analiza bazy danych ogłoszeń sprzedaży mieszkań, a w następnej 
-kolejności na podstawie opisu z ogłoszenia i innych parametrów ocenić jego stan oraz podać
-przewidywaną cenę. 
-Do projektu użyto algorytmów scikit-learn oraz mechanizmu pyCaret w języku python. Modelowanie 
-ML przewiduje stany mieszkań na bazie danych ogłoszeń z całej Polski. 
-Po wstawieniu przewidywanego stanu (model ML klasyfikacyjny) przetworzona baza danych przechodzi 
-do drugiego modelu (model regresyjny) gdzie tworzony jest model przewidujący ceny. 
-Taka dwukrotnie przetworzona baza danych powraca w postaci .csv do klienta z nowymi polami 
-stanu mieszkań i przewidywanej ceny.</p>
+<h1 id="projekt-thermal">Projekt Thermal</h1>
+<p>Data projektu: 2017</p>
+<p>Projekt zakłada stworzenie oprogramowania w języku C#, który służy do obsługi drukarek fiskalnych.
+Pierwotnie program powstał dla drukarki THERMAL XL firmy POSNET SA (dla tej firmy projekt był także tworzony) 
+w celu obsługi podstawowych jej funkcji takich jak: zmiana czasu, dodanie produktów, dodanie cen, obsługa, 
+sprzedaż, rozliczenia itp. oraz np. przekazanie danych do nagłówka i stopki w tym (najtrudniejsze) przesłanie
+obrazka typu bitmap (.bmp) w rozdzielczości do 300x200 (b&amp;w).
+Aplikacja wymaga skonfigurowania połączenia zewnętrznego z drukarką za pomocą łącza COM, dlatego do jej funkcjonalości
+dołączony został blok wspierający takie połączenie.</p>
+<p>Program jest kompatybilny z wszystkimi drukarkarkami fiskalnymi obsługującymi protokół komunkacyjny posnet.</p>
+<p><a class="glightbox" href="https://github.com/Tomalom76/portfolio/blob/main/docs/Thermal/Thermal1.jpg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img align="left" alt="Thermal project" src="https://github.com/Tomalom76/portfolio/blob/main/docs/Thermal/Thermal1.jpg" /></a>
+<a class="glightbox" href="https://github.com/Tomalom76/portfolio/blob/main/docs/Thermal/Thermal1zrzutdanych.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img align="left" alt="Thermal project" src="https://github.com/Tomalom76/portfolio/blob/main/docs/Thermal/Thermal1zrzutdanych.png" /></a></p>
 
 
 
