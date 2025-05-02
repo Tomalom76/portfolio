@@ -73,6 +73,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#projekt-wdrozenia-dwoch-modeli-ml-pracujacych-w-tandemie-majacych-na-celu-przewidziec" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -293,6 +298,8 @@
       <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
       
       
+        
+      
       
       <a href="./" class="md-nav__link md-nav__link--active">
         
@@ -403,6 +410,8 @@
   
   
   
+    
+  
   
 </nav>
                   </div>
@@ -421,9 +430,18 @@
   
 
 
-  <h1>Predykcja cen i stanów mieszkań</h1>
-
-
+<h1 id="projekt-wdrozenia-dwoch-modeli-ml-pracujacych-w-tandemie-majacych-na-celu-przewidziec">Projekt wdrożenia dwóch modeli ML pracujących w tandemie mających na celu przewidzieć</h1>
+<h1 id="stan-mieszkania-w-podanym-ogoszeniu-lub-caej-bazie-ogoszen-oraz-podac-jego-przewidywana">stan mieszkania w podanym ogłoszeniu lub całej bazie ogłoszeń oraz podać jego przewidywaną</h1>
+<h1 id="wartosc-w-pln">wartość w PLN.</h1>
+<p>Celem głównym projektu jest analiza bazy danych ogłoszeń sprzedaży mieszkań, a w następnej 
+kolejności na podstawie opisu z ogłoszenia i innych paramatrów ocenić jego stan oraz podać
+przewidywaną cenę. 
+Do projektu użyto algorytmów scikit-learn oraz mechanizmu pyCaret. Modelowanie ML przewiduje
+stany mieszkań na bazie danych ogłoszeń z całej Polski. Po wstawieniu przewidywanego stanu
+(model ML klasyfikacyjny) przetworzona baza danych przechodzi do drugiego modelu (model
+regresyjny) gdzie tworzony jest model przewidujący ceny. Taka dwukrotnie przetworzona 
+baza danych powraca w postaci .csv do klienta z nowymi polami stanu mieszkań i przewidywanej
+ceny.</p>
 
 
 
