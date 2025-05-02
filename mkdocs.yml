@@ -5,6 +5,9 @@ site_author: Tomasz Mirkowski
 site_description: >-
     Portfolio moich projektów.
 
+repo_name: Tomalom76/portfolio
+repo_url: https://github.com/Tomalom76/portfolio
+
 theme:
   name: material
   palette:
