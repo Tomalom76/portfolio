@@ -1,7 +1,5 @@
 
-# Projekt wdrożenia dwóch modeli ML pracujących w tandemie mających na celu przewidzieć 
-# stan mieszkania w podanym ogłoszeniu lub całej bazie ogłoszeń oraz podać jego przewidywaną
-# wartość w PLN.
+# Projekt wdrożenia dwóch modeli ML pracujących w tandemie mających na celu przewidzieć stan mieszkania w podanym ogłoszeniu lub całej bazie ogłoszeń oraz podać jego przewidywaną wartość w PLN.
 
 Celem głównym projektu jest analiza bazy danych ogłoszeń sprzedaży mieszkań, a w następnej 
 kolejności na podstawie opisu z ogłoszenia i innych paramatrów ocenić jego stan oraz podać
