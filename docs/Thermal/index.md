@@ -14,7 +14,8 @@ Program jest kompatybilny z wszystkimi drukarkarkami fiskalnymi obsługującymi 
 
 <figure markdown="1">
   <img src="https://raw.githubusercontent.com/Tomalom76/portfolio/main/docs/Thermal/images/Thermal1.jpg" alt="Thermal project1" width="300">
+  <figcaption>Zdjęcie okna wstępnego do konfiguracji i ustanowienia połączenia</figcaption>
   <img src="https://raw.githubusercontent.com/Tomalom76/portfolio/main/docs/Thermal/images/zrzutdanych.png" alt="Thermal project2" width="300">
-  <figcaption>Image caption</figcaption>
+  <figcaption>Zdjęcie okna przesyłu grafiki do nagłówka/stopki</figcaption>
 </figure>
 
