@@ -1,0 +1,18 @@
+site_name: Portfolio Tomasz Mirkowski
+
+site_name: Moje projekty
+site_author: Tomasz Mirkowski
+site_description: >-
+    Portfolio moich projektów.
+
+theme:
+  name: material
+  palette:
+    primary: blue
+
+nav:
+- Strona Domowa: index.md
+- Obecny projekt:
+  - "Predykcja cen i stanów mieszkań": Investoro/index.md
+- Poprzednie projekty:
+  - "Titanic": Titanic/index.md
