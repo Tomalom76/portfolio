@@ -270,6 +270,19 @@
         
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Predykcja cen i stanów mieszkań
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -281,6 +294,43 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#kolejne-zadania" class="md-nav__link">
+    <span class="md-ellipsis">
+      Kolejne zadania
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dalszy-rozwoj" class="md-nav__link">
+    <span class="md-ellipsis">
+      Dalszy rozwój
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -405,6 +455,32 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#kolejne-zadania" class="md-nav__link">
+    <span class="md-ellipsis">
+      Kolejne zadania
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dalszy-rozwoj" class="md-nav__link">
+    <span class="md-ellipsis">
+      Dalszy rozwój
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -431,7 +507,35 @@ ML przewiduje stany mieszkań na bazie danych ogłoszeń z całej Polski.
 Po wstawieniu przewidywanego stanu (model ML klasyfikacyjny) przetworzona baza danych przechodzi 
 do drugiego modelu (model regresyjny) gdzie tworzony jest model przewidujący ceny. 
 Taka dwukrotnie przetworzona baza danych powraca w postaci .csv do klienta z nowymi polami 
-stanu mieszkań i przewidywanej ceny.</p>
+stanu mieszkań i przewidywanej ceny.
+Stan: gotowe do wdrożenia</p>
+<figure>
+<p><a class="glightbox" href="https://raw.githubusercontent.com/Tomalom76/portfolio/main/docs/Investoro/images/Thermal1plan.jpg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img src="https://raw.githubusercontent.com/Tomalom76/portfolio/main/docs/Investoro/images/Thermal1plan.jpg" alt="Investoro project1" width="300"></a>
+  </p>
+<figcaption>Plan działania aplikacji</figcaption>
+</figure>
+<h2 id="kolejne-zadania">Kolejne zadania</h2>
+<p>Kolejnym krokiem jest opakowanie tych dwóch modeli w aplikację, którą bedzie można uruchomić plikiem .bat
+Po jej uruchomieniu program wprowadzi stały nadzór (nasłuch) nad dwoma folderami, jeden do dużej bazy danych
+a drugi dla małych plików typu JSON.
+Aplikacja po otrzymaniu sygnału, że coś znalazło się w danym folderze będzie sprawdzać czy jest to plik
+z bazą danych typu .csv lub, analogicznie dla drugiego folderu, czy jest to .json
+Następnie w przypadku dużej bazy, aplikacja będzie rozpoczynała proces trenowania nowego modelu, potem kolejnego, aż
+w efekcie do folderu końcowego (wyjściowego) zwracać będzie ową bazę danych wzbogaconą o dwie kolumny: z przewidywanymi
+cenami oraz przewidywanym stanem mieszkania.</p>
+<p>W drugim przypadku, przy odebraniu pliku typu .json nie będzie dla niego trenować modelu, tylko wykorzysta już ten
+model istniejący, wytrenowany na wcześniej dostarczonej dużej bazie, a użyje go w pierwszej kolejności by przewidzieć stan mieszkania,
+dla ogłoszenia, lub kilku ogłoszeń dostarczonych w postaci pliku .json. W dalszej kolejności plik, już wzbogacony o przewidziany
+stan, zostanie potraktowany modelem cenowym, który wzbogaci go o kolejną predykcję, tym razem ceny. Taki 'bogaty' plik
+zostanie ponownie zwrócony do folderu wyjściowego także jako .json. 
+Potraktowanie małych danych w ten sposób, jest korzystne dla klienta, który niewielką liczbę rekordów, może w szybki i 
+sprawny sposób wzbogacić o wymagane predykcje. Natomiast w godzinach nocnych, może załączyć duże dane, które przygotują
+nowe modele na kolejny dzień pracy.</p>
+<h2 id="dalszy-rozwoj">Dalszy rozwój</h2>
+<p>Dalsze plany na rozwój, czyli etap II ma polegać na rozwoju aplikacji wykorzystujący model językowy LLM, który na 
+podstawie opisu wklejonego z ogłoszenia, lub/także zdjęcia, mógłby w sposób bardziej szczegółowy rozpoznać
+stan nieruchomości i dać ocenę. Tutaj oczywiście wchodzą już koszty użycia danego modelu językowego i należy liczyć się
+z pewnymi wydatkami, w szczególności kiedy to baza ma liczbę rekordów liczoną w milionach.</p>
 
 
 
