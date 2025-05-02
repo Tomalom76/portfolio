@@ -12,5 +12,5 @@ dołączony został blok wspierający takie połączenie.
 
 Program jest kompatybilny z wszystkimi drukarkarkami fiskalnymi obsługującymi protokół komunkacyjny posnet.
 
-![Thermal project](https://dummyimage.com/600x400/eee/aaa){ align=left }
-![Thermal project](https://dummyimage.com/600x400/eee/aaa){ align=left }
+![Thermal project](https://github.com/Tomalom76/portfolio/blob/main/docs/Thermal/Thermal1.jpg){ align=left }
+![Thermal project](https://github.com/Tomalom76/portfolio/blob/main/docs/Thermal/Thermal1zrzutdanych.png){ align=left }
