@@ -1,0 +1,16 @@
+# Projekt Thermal
+
+Data projektu: 2017
+
+Projekt zakłada stworzenie oprogramowania w języku C#, który służy do obsługi drukarek fiskalnych.
+Pierwotnie program powstał dla drukarki THERMAL XL firmy POSNET SA (dla tej firmy projekt był także tworzony) 
+w celu obsługi podstawowych jej funkcji takich jak: zmiana czasu, dodanie produktów, dodanie cen, obsługa, 
+sprzedaż, rozliczenia itp. oraz np. przekazanie danych do nagłówka i stopki w tym (najtrudniejsze) przesłanie
+obrazka typu bitmap (.bmp) w rozdzielczości do 300x200 (b&w).
+Aplikacja wymaga skonfigurowania połączenia zewnętrznego z drukarką za pomocą łącza COM, dlatego do jej funkcjonalości
+dołączony został blok wspierający takie połączenie.
+
+Program jest kompatybilny z wszystkimi drukarkarkami fiskalnymi obsługującymi protokół komunkacyjny posnet.
+
+![Thermal project](https://dummyimage.com/600x400/eee/aaa){ align=left }
+![Thermal project](https://dummyimage.com/600x400/eee/aaa){ align=left }

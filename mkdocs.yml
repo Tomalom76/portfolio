@@ -19,3 +19,12 @@ nav:
   - "Predykcja cen i stanów mieszkań": Investoro/index.md
 - Poprzednie projekty:
   - "Titanic": Titanic/index.md
+  - "Thermal": Thermal/index.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+
+plugins:
+  - glightbox
