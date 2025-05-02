@@ -12,9 +12,9 @@ dołączony został blok wspierający takie połączenie.
 
 Program jest kompatybilny z wszystkimi drukarkarkami fiskalnymi obsługującymi protokół komunkacyjny posnet.
 
-<figure markdown="span">
-  ![Thermal project1](https://github.com/Tomalom76/portfolio/blob/main/docs/Thermal/images/Thermal1.jpg){ align=left }
-  ![Thermal project2](https://github.com/Tomalom76/portfolio/blob/main/docs/Thermal/images/zrzutdanych.png){ align=left }
+<figure markdown="1">
+  <img src="https://raw.githubusercontent.com/Tomalom76/portfolio/main/docs/Thermal/images/Thermal1.jpg" alt="Thermal project1" width="300">
+  <img src="https://raw.githubusercontent.com/Tomalom76/portfolio/main/docs/Thermal/images/zrzutdanych.png" alt="Thermal project2" width="300">
   <figcaption>Image caption</figcaption>
 </figure>
 
