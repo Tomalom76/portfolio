@@ -1,5 +1,8 @@
 
 # Analiza Danych EDA Titanica: Eksploracja Domenowa
+
+Data wykonania projektu: marzec 2025
+
   Analiza danych osób, które przeżyły bądź nie przeżyły katastrofy statku Titanic dnia 12.04.1912 roku.
   Jest to czysta analiza danych wywnioskowana z tabeli ofiar tragedii. Na różnych wykres i tablicach można
   ocenić różne aspekty przetrwania, np. kto i z jakiej klasy pasażerskiej miał większą szansę przeżyć tragedię.

@@ -1,5 +1,7 @@
 # Projekt aplikacji webowej do przewidywania stanu mieszkań z ogłoszenia.
 
+Data wykonania projektu: maj 2025
+
 Jest to projekt aplikacji webowej, który wykorzystuje model gpt4o, w celu odczytania i przeanalizowania
 ogłoszenia w sprawie sprzedaży mieszkania. W efekcie zwrotnym mechanizm przewiduje stan mieszkania oraz
 jego cenę. Jest skierowany do obróbki pojedynczej. Czyli jedno ogłoszenie na raz. 
