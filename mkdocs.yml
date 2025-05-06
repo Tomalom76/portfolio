@@ -18,6 +18,7 @@ nav:
 - Obecny projekt:
   - "Predykcja cen i stanów mieszkań": Investoro/index.md
 - Poprzednie projekty:
+  - "Stan"   : Stan/index.md  
   - "Titanic": Titanic/index.md
   - "Thermal": Thermal/index.md
 
