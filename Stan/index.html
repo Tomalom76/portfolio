@@ -13,8 +13,10 @@
       
       
       
-        <link rel="prev" href="../Titanic/">
+        <link rel="prev" href="../Investoro/">
       
+      
+        <link rel="next" href="../Titanic/">
       
       
       <link rel="icon" href="../assets/images/favicon.png">
@@ -22,7 +24,7 @@
     
     
       
-        <title>Thermal - Moje projekty</title>
+        <title>Stan - Moje projekty</title>
       
     
     
@@ -81,7 +83,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#projekt-thermal" class="md-skip">
+        <a href="#projekt-aplikacji-webowej-do-przewidywania-stanu-mieszkan-z-ogoszenia" class="md-skip">
           Skip to content
         </a>
       
@@ -117,7 +119,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Thermal
+              Stan
             
           </span>
         </div>
@@ -324,10 +326,19 @@
                 
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../Stan/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   
@@ -338,6 +349,7 @@
   
 
       </a>
+      
     </li>
   
 
@@ -370,19 +382,10 @@
                 
   
   
-    
   
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../Thermal/" class="md-nav__link">
         
   
   
@@ -393,7 +396,6 @@
   
 
       </a>
-      
     </li>
   
 
@@ -443,23 +445,18 @@
   
 
 
-<h1 id="projekt-thermal">Projekt Thermal</h1>
-<p>Data projektu: 2017</p>
-<p>Projekt zakłada stworzenie oprogramowania w języku C#, który służy do obsługi drukarek fiskalnych.
-Pierwotnie program powstał dla drukarki THERMAL XL firmy POSNET SA (dla tej firmy projekt był także tworzony) 
-w celu obsługi podstawowych jej funkcji takich jak: zmiana czasu, dodanie produktów, dodanie cen, obsługa, 
-sprzedaż, rozliczenia itp. oraz np. przekazanie danych do nagłówka i stopki w tym (najtrudniejsze) przesłanie
-obrazka typu bitmap (.bmp) w rozdzielczości do 300x200 (b&amp;w).
-Aplikacja wymaga skonfigurowania połączenia zewnętrznego z drukarką za pomocą łącza COM, dlatego do jej funkcjonalości
-dołączony został blok wspierający takie połączenie.</p>
-<p>Program jest kompatybilny z wszystkimi drukarkarkami fiskalnymi obsługującymi protokół komunkacyjny posnet.</p>
+<h1 id="projekt-aplikacji-webowej-do-przewidywania-stanu-mieszkan-z-ogoszenia">Projekt aplikacji webowej do przewidywania stanu mieszkań z ogłoszenia.</h1>
+<p>Jest to projekt aplikacji webowej, który wykorzystuje model gpt4o, w celu odczytania i przeanalizowania
+ogłoszenia w sprawie sprzedaży mieszkania. W efekcie zwrotnym mechanizm przewiduje stan mieszkania oraz
+jego cenę. Jest skierowany do obróbki pojedynczej. Czyli jedno ogłoszenie na raz. 
+Dodatkowo jest odpłatny, ponieważ wykorzystuje klucz API użytkownika aplikacji. Ten musi być 
+wcześniej wprowadzony przez użytkownika, ale wewnątrzprogramowo. Nie ma do tego specjalnego 
+interfejsu, choć możliwe, że w dalszych iteracjach go dodam. Na chwilę obecną stosuję
+go na potrzeby własne, więc nie ma takiej potrzeby.</p>
 <figure>
-<p><a class="glightbox" href="https://raw.githubusercontent.com/Tomalom76/portfolio/main/docs/Thermal/images/Thermal1.jpg" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img src="https://raw.githubusercontent.com/Tomalom76/portfolio/main/docs/Thermal/images/Thermal1.jpg" alt="Thermal project1" width="300"></a>
+<p><a class="glightbox" href="https://raw.githubusercontent.com/Tomalom76/portfolio/main/docs/Stan/images/stan1.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img src="https://raw.githubusercontent.com/Tomalom76/portfolio/main/docs/Stan/images/stan1.png" alt="stan1" width="300"></a>
   </p>
-<figcaption>Zdjęcie okna wstępnego do konfiguracji i ustanowienia połączenia</figcaption>
-<p><a class="glightbox" href="https://raw.githubusercontent.com/Tomalom76/portfolio/main/docs/Thermal/images/zrzutdanych.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img src="https://raw.githubusercontent.com/Tomalom76/portfolio/main/docs/Thermal/images/zrzutdanych.png" alt="Thermal project2" width="300"></a>
-  </p>
-<figcaption>Zdjęcie okna przesyłu grafiki do nagłówka/stopki</figcaption>
+<figcaption>Zrzut interfejsu</figcaption>
 </figure>
 
 
