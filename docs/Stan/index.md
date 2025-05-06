@@ -9,6 +9,6 @@ interfejsu, choć możliwe, że w dalszych iteracjach go dodam. Na chwilę obecn
 go na potrzeby własne, więc nie ma takiej potrzeby.
 
 <figure markdown="1">
-  <img src="https://raw.githubusercontent.com/Tomalom76/portfolio/main/docs/Stan/images/stan1.jpg" alt="Investoro project1" width="300">
+  <img src="https://raw.githubusercontent.com/Tomalom76/portfolio/main/docs/Stan/images/stan1.jpg" alt="stan1" width="300">
   <figcaption>Zrzut interfejsu</figcaption>
 </figure>
