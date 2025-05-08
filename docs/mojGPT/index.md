@@ -22,5 +22,5 @@ platformy OpenAI.
   <img src="https://raw.githubusercontent.com/Tomalom76/portfolio/main/docs/mojGPT/images/naszGPT1.jpg" alt="NaszGPT project1" width="300">
   <figcaption>Zdjęcie okna aplikacji</figcaption>
   <img src="https://raw.githubusercontent.com/Tomalom76/portfolio/main/docs/mojGPT/images/naszGPT2.jpg" alt="NaszGPT project2" width="300">
-  <figcaption>Zdjęcie okna aplikacji z rozwiniętym oknem wyboru modelu/figcaption>
+  <figcaption>Zdjęcie okna aplikacji z rozwiniętym oknem wyboru modelu </figcaption>
 </figure>
