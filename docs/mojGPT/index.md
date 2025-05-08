@@ -13,6 +13,8 @@ Aplikacja oferuje także zapamiętywanie rozmów, tak by można było kolejnego 
 z pamięci taką rozmowę i kontynuować, bez ponownego wyjaśniania szczegółów.
 Inną funkcjonalnością jest możliwość wprowadzenia osobowości chata, można nadać charakter
 naszemu rozmówcy.
+Należy zaznaczyć, że do użytkowania potrzebny jest własny klucz API uzyskany na stronie 
+platformy OpenAI.
 
 <a href="app.py" class="md-button md-button--primary">Pobierz app.py</a>
 
