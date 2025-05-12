@@ -14,7 +14,7 @@ theme:
     primary: blue
 
 nav:
-- Strona Domowa: index.md
+- Home: index.md
 - Obecny projekt:
   - "Predykcja cen i stanów mieszkań": Investoro/index.md
 - Poprzednie projekty:
