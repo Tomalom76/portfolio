@@ -20,6 +20,7 @@ nav:
 - Poprzednie projekty:
   - "Stan"   : Stan/index.md  
   - "MójGPT" : mojGPT/index.md
+  - "Grupy"  : grupy/index.md
   - "Titanic": Titanic/index.md
   - "Iris"   : Iris/index.md
   - "Thermal": Thermal/index.md
