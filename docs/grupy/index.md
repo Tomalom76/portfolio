@@ -4,7 +4,7 @@ Data wykonania projektu: marzec 2025
 
 Aplikacja pozwala na przeanalizowanie grupy kursowej i pomaga znaleźć osoby o podobnych zainteresowaniach.
 Aplikacja stosuje model ML grupujący, dzielący dane na klastry, a potem na podstawie wybranych opcji
-klasyfikuję osobę do danej grupy.
+klasyfikuje osobę do danej grupy.
 
 
 <a href="app.py" class="md-button md-button--primary">Pobierz aplikację główną</a>
