@@ -15,6 +15,6 @@ cech morfologicznych. To właśnie znajduje się w załączonym notebooku.
   <figcaption>Wykres 1</figcaption>
   <img src="https://raw.githubusercontent.com/Tomalom76/portfolio/main/docs/Iris/images/irys2.jpg" alt="Iris project2" width="300">
   <figcaption>Wykres 2</figcaption>
-    <img src="https://raw.githubusercontent.com/Tomalom76/portfolio/main/docs/Iris/images/irys3.jpg" alt="Iris project3" width="300">
+  <img src="https://raw.githubusercontent.com/Tomalom76/portfolio/main/docs/Iris/images/irys3.jpg" alt="Iris project3" width="300">
   <figcaption>Wykres 3</figcaption>
 </figure>
