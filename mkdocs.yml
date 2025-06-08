@@ -1,6 +1,6 @@
 site_name: Portfolio Tomasz Mirkowski
 
-site_name: Moje projekty - Tomasz Mirkowski
+site_name: Moje projekty
 site_author: Tomasz Mirkowski
 site_description: >-
     Portfolio moich projektów.
@@ -21,6 +21,7 @@ nav:
   - "Investoro - ETAP I": Investoro2/index.md
   - "Stan"   : Stan/index.md  
   - "MójGPT" : mojGPT/index.md
+  - "Faktury": Faktury-invoice/index.md
   - "Grupy"  : grupy/index.md
   - "Titanic": Titanic/index.md
   - "Iris"   : Iris/index.md
