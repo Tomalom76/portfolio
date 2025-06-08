@@ -23,5 +23,10 @@ Status: wdrożone
 </figure>
 
 ### MLFLOW
-Do aplikacji modelujący wprowadzony został moduł zarządzający zebranymi modelami w formie webowej. Można w nim wybierać najbardziej
+Do aplikacji modelującej wprowadzony został moduł zarządzający zebranymi modelami w formie webowej. Można w nim wybierać najbardziej
 aktualne modele produkcyjne oraz śledzić metryki modeli oraz porównywać je ze sobą. 
+
+<figure markdown="1">
+  <img src="https://raw.githubusercontent.com/Tomalom76/portfolio/main/docs/Investoro2/images/mlflow.jpg" alt="przykład mlflow" width="300">
+  <figcaption>Przykład MLFLOW w użyciu</figcaption>
+</figure>
