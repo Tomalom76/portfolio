@@ -35,8 +35,10 @@ do modelu predykcji lokalizacji dodano wzmocnienie w postaci pomocniczego użyci
 
 ### Dalszy rozwój
 Aktualna praca polega na wzmacnianiu predykcji i osiąganiu co raz większej wydajności z poszczególnych modeli za pomocą:
-1. normalizacji,
-2. zbalansowania,
-3. regulacji parametrów i hyperparametrów oraz 
-4. różnych innych zabiegów ulepszających np. zwiększanie liczebności komórek neuronowych w poszczególnych warstwach
-  lub zmiana charakteru całej warstwy. ReLU -> LeakyReLU
+
+* normalizacji,
+* zbalansowania,
+* regulacji parametrów i hyperparametrów oraz 
+* różnych innych zabiegów ulepszających np. zwiększanie liczebności komórek neuronowych w poszczególnych warstwach
+  lub zmiana charakteru całej warstwy.
+  * ReLU -> LeakyReLU
