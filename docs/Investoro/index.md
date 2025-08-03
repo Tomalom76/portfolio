@@ -18,7 +18,7 @@ Celem tego etapu było zakończenie prac nad całym modelem predykcji składają
 Wszystkie modele pracują według uproszczonego schematu:
 <figure markdown="1">
   <img src="https://raw.githubusercontent.com/Tomalom76/portfolio/main/docs/Investoro/images/Schemat_uproszczony.png" alt="Investoro project1" width="600">
-  <figcaption>Plan działania skryptów</figcaption>
+  <figcaption>Uproszczony schemat współpracy modeli</figcaption>
 </figure>
 
 ### Model predykcji lokalizacji
