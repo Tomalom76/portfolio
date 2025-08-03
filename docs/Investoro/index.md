@@ -29,7 +29,10 @@ Model pozostaje pod ciągłym nadzorem i jest poprawiany sukcesywnie by osiągn�
 
 ### Zmiany
 W porównaniu z etapem I zmiany były fundamentalne. Zmienił się cały plan działania. przebudowane zostały oba wcześniejsze modele 
-(cen i stanu mieszkania), wtym jeden(stan mieszkania) został przebudoawany na model typu LSTM tensorflow.keras
+(cen i stanu mieszkania), w tym jeden(stan mieszkania) został przebudoawany na model typu LSTM tensorflow.keras
+
+Dobudowanie całkowicie nowego modelu predykcji lokalizacji.
+
 Predykcje plików typu .json pracują jako oddzielne skrypty stosujące model na pojedynczym pliku. Dodatkowo
 do modelu predykcji lokalizacji dodano wzmocnienie w postaci pomocniczego użycia gpt-o4-mini.
 
@@ -39,6 +42,6 @@ Aktualna praca polega na wzmacnianiu predykcji i osiąganiu co raz większej wyd
 * normalizacji,
 * zbalansowania,
 * regulacji parametrów i hyperparametrów oraz 
-* różnych innych zabiegów ulepszających np. zwiększanie liczebności komórek neuronowych w poszczególnych warstwach
+* różnych innych zabiegów ulepszających np. zwiększanie liczebności komórek neuronowych w poszczególnych warstwach(dropout)
   lub zmiana charakteru całej warstwy.
   * ReLU -> LeakyReLU
