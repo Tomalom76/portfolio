@@ -23,7 +23,8 @@ Wszystkie modele pracują według uproszczonego schematu:
 
 ### Model predykcji lokalizacji
 Jest to najbardziej złożony model całego procesu. Jego dokładność sięga ulicy w danej dzielnicy określonego miasta lub
-ulicy w danje wiosce w danym powiecie dla obszaru całej Polski. 
+ulicy w danej wiosce w danym powiecie dla obszaru całej Polski. 
+
 Model wymagał skonstruowania specjalnego słownika pracującego na określonym schemacie stworzonym przez pracowdawcę.
 Model pozostaje pod ciągłym nadzorem i jest poprawiany sukcesywnie by osiągnąć odpowiednią wydajność.
 
