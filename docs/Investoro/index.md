@@ -1,5 +1,5 @@
 
-## Projekt wdrożenia dwtrzech modeli ML pracujących wspólnie mających na celu przewidzieć stan mieszkania oraz jego dokładną lokalizację w podanym ogłoszeniu lub całej bazie ogłoszeń oraz podać jego przewidywaną wartość w PLN.
+## Projekt wdrożenia trzech modeli ML pracujących wspólnie mających na celu przewidzieć stan mieszkania oraz jego dokładną lokalizację w podanym ogłoszeniu lub całej bazie ogłoszeń oraz podać jego przewidywaną wartość w PLN.
 
 
 
@@ -10,9 +10,10 @@
 
 ### Zadania
 Celem tego etapu było zakończenie prac nad całym modelem predykcji składającym się na:
-1. Model LSTM predykcji lokalizacji
-2. Model LSTM predykcji stanu mieszkania
-3. Model SCIKIT-LEARN predykcji cen mieszkania 
+
+  1. Model LSTM predykcji lokalizacji
+  2. Model LSTM predykcji stanu mieszkania
+  3. Model SCIKIT-LEARN predykcji cen mieszkania 
 
 Wszystkie modele pracują według uproszczonego schematu:
 <figure markdown="1">
