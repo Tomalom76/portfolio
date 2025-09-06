@@ -16,8 +16,9 @@ theme:
 nav:
 - Home: index.md
 - Obecny projekt:
-  - "Predykcja cen i stanów mieszkań ETAP II": Investoro/index.md
+  - "Predykcja cen i stanów mieszkań ETAP III": Investoro3/index.md
 - Poprzednie projekty:
+  - "Investoro - ETAP II" : Investoro/index.md
   - "Investoro - ETAP I": Investoro2/index.md
   - "Stan"   : Stan/index.md  
   - "MójGPT" : mojGPT/index.md
