@@ -1,4 +1,4 @@
-# Witaj na stronie portfolio
+# Witaj na stronie portfolio - Tomasz Mirkowski
 
 O mnie
 
