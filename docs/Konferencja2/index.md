@@ -5,11 +5,11 @@
 https://www.youtube.com/live/i3IzJicWQPY
 <a href="https://www.youtube.com/live/i3IzJicWQPY" class="md-button md-button--primary">Otwórz</a>
 
-## Konferencja odbyła się w Hotelu IBIS Style. plac Konstytucji 3 Maja 3 
-## Agenda:
+### Konferencja odbyła się w Hotelu IBIS Style. plac Konstytucji 3 Maja 3 
+# Agenda:
 
 🚀
-# BLOK 1: Projekty, które robią robotę
+## BLOK 1: Projekty, które robią robotę
 
 9:30–11:50
 
@@ -24,7 +24,7 @@ https://www.youtube.com/live/i3IzJicWQPY
 ---
 
 🧠
-# BLOK 2: Career Guide od kuchni
+## BLOK 2: Career Guide od kuchni
 
 12:10–13:40
 
@@ -40,7 +40,7 @@ https://www.youtube.com/live/i3IzJicWQPY
 ---
 
 ⚡
-# BLOK 3: Lightning Talks (14:00–15:00)
+## BLOK 3: Lightning Talks (14:00–15:00)
 
 4 osoby × 15 minut → konkret, kasa, wdrożenia, błędy i lekcje:
 
