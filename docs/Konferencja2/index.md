@@ -2,7 +2,6 @@
 ### II Konferencja Data Science Masterclass - WROCŁAW 29 listopada 2025
 
 # Skrót do zapisu konferencji:
-https://www.youtube.com/live/i3IzJicWQPY
 
 <a href="https://www.youtube.com/live/i3IzJicWQPY" class="md-button md-button--primary">Otwórz</a>
 

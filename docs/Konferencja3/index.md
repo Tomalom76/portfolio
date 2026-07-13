@@ -1,7 +1,6 @@
 ### III Konferencja Data Science Masterclass - WROCŁAW 27 czerwca 2026
 
 # Skrót do zapisu konferencji:
-https://www.youtube.com/watch?v=owhVTUJ14IY
 
 <a href="https://www.youtube.com/watch?v=owhVTUJ14IY" class="md-button md-button--primary">Otwórz</a>
 
