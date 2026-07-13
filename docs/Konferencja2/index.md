@@ -3,6 +3,7 @@
 
 # Skrót do zapisu konferencji:
 https://www.youtube.com/live/i3IzJicWQPY
+<a href="https://www.youtube.com/live/i3IzJicWQPY" class="md-button md-button--primary">Otwórz</a>
 
 ## Konferencja odbyła się w Hotelu IBIS Style. plac Konstytucji 3 Maja 3 
 ## Agenda:
