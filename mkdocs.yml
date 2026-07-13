@@ -11,7 +11,7 @@ repo_url: https://github.com/tomalom76/portfolio
 theme:
   name: material
   palette:
-    primary: blue
+    primary: yellow
 
 nav:
 - Home: index.md
