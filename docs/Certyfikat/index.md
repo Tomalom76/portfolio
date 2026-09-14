@@ -26,9 +26,17 @@ komunikatory, witryna **ngrok**, **airflow**, **supabase - bazy wektorowe**, *we
 
 
 ## Certyfikat ISTQB - Foundation Level
-Egzamin z zakresu podstawowego testów oprogramowania 10 lutego 2022 roku. Otrzymałem dyplom o numerze 86088
+Egzamin z zakresu podstawowego testów oprogramowania *10 lutego 2022 roku*. Otrzymałem dyplom o numerze: **86088**
 
 <figure markdown="1">
   <img src="C:\Tomek\Conda\envs\portfolio\docs\Certyfikat\images\Cert_ISTQB_FL.jpg" alt="Certyfikat_ISTQB" width="600">
+  <figcaption>Certyfikat ISTQB FL</figcaption>
+</figure>
+
+## Zaświadczenie 100-godzinnego kursu programowania JAVA z elementami JBOSS i Tomcat
+To zaświadczenie odbycia 100-godzinnego kursu programowania JAVA jaki odbyłem we *wrześniu 2014 roku*.
+
+<figure markdown="1">
+  <img src="C:\Tomek\Conda\envs\portfolio\docs\Certyfikat\images\Cert_EXPOSE.jpg" alt="Certyfikat_ISTQB" width="600">
   <figcaption>Certyfikat ISTQB FL</figcaption>
 </figure>
