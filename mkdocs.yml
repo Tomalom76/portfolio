@@ -35,6 +35,8 @@ nav:
   - "III Konferencja DATA SCIENTIST 27 czerwca 2026": Konferencja3/index.md
   - "II Konferencja DATA SCIENCE 29 listopada 2025": Konferencja2/index.md
 
+- Ważne Certyfikaty: Certyfikat/index.md
+
 markdown_extensions:
   - attr_list
   - md_in_html
