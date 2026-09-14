@@ -35,7 +35,7 @@ Egzamin z zakresu podstawowego testów oprogramowania *10 lutego 2022 roku*. Otr
   <figcaption>Certyfikat ISTQB FL</figcaption>
 </figure>
 
-## Zaświadczenie 100-godzinnego kursu programowania JAVA z elementami JBOSS i Tomcat
+## 100-godzinney kurs programowania JAVA z elementami JBOSS i Tomcat
 To zaświadczenie odbycia 100-godzinnego kursu programowania JAVA jaki odbyłem we *wrześniu 2014 roku*.
 
 <figure markdown="1">
