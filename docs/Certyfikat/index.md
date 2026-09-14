@@ -1,5 +1,5 @@
 
-# Najważniejsze Certyfikaty
+# **Najważniejsze Certyfikaty**
 
 ## Certyfikat ukończenia kursu Data Science
 Kurs przeszedłem w okresie od lutego do końca kwietnia 2025. Jest to kurs 90-dniowy obejmujący
@@ -22,4 +22,13 @@ komunikatory, witryna **ngrok**, **airflow**, **supabase - bazy wektorowe**, *we
 <figure markdown="1">
   <img src="C:\Tomek\Conda\envs\portfolio\docs\Certyfikat\images\cert_AgenciAI.jpg" alt="Certyfikat_AgenciAI" width="600">
   <figcaption>Certyfikat ukończenia kursu Tworzenia Agentów Ai</figcaption>
+</figure>
+
+
+## Certyfikat ISTQB - Foundation Level
+Egzamin z zakresu podstawowego testów oprogramowania 10 lutego 2022 roku. Otrzymałem dyplom o numerze 86088
+
+<figure markdown="1">
+  <img src="C:\Tomek\Conda\envs\portfolio\docs\Certyfikat\images\Cert_ISTQB_FL.jpg" alt="Certyfikat_ISTQB" width="600">
+  <figcaption>Certyfikat ISTQB FL</figcaption>
 </figure>
