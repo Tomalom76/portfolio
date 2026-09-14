@@ -39,6 +39,6 @@ Egzamin z zakresu podstawowego testów oprogramowania *10 lutego 2022 roku*. Otr
 To zaświadczenie odbycia 100-godzinnego kursu programowania JAVA jaki odbyłem we *wrześniu 2014 roku*.
 
 <figure markdown="1">
-  <img src="C:\Tomek\Conda\envs\portfolio\docs\Certyfikat\images\Cert_EXPOSE.jpg" alt="Certyfikat_ISTQB" width="600">
-  <figcaption>Certyfikat ISTQB FL</figcaption>
+  <img src="C:\Tomek\Conda\envs\portfolio\docs\Certyfikat\images\Cert_EXPOSE.jpg" alt="Certyfikat_100hjava" width="600">
+  <figcaption>Certyfikat 100hjava</figcaption>
 </figure>
