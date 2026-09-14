@@ -10,7 +10,7 @@ Przy pracy korzystałem także z takich narzędzi jak **qDrant**, **Streamlite**
 bibliotek do pythona: *pyCaret*, *scikit-learn*, *pandas*, *numpy*, *seaborn* i wielu innych.
 
 <figure markdown="1">
-  <img src="C:\Tomek\Conda\envs\portfolio\docs\Certyfikat\images\Data_science.jpg" alt="Certyfikat_Data_science" width="600">
+  <img src="C:\Tomek\Conda\envs\portfolio\docs\Certyfikat\images\Data_science.jpg" alt="Certyfikat_Data_science" width="300">
   <figcaption>Certyfikat ukończenia kursu Data Science</figcaption>
 </figure>
 
@@ -22,7 +22,7 @@ nauczyłem się jak budować agentów AI wspomagających pracę biurową. Z **n8
 komunikatory (np. *telegram*), witryna **ngrok**, **airflow**, **supabase - bazy wektorowe**, *webhook* w zastosowaniu z dockerem. 
 
 <figure markdown="1">
-  <img src="C:\Tomek\Conda\envs\portfolio\docs\Certyfikat\images\cert_AgenciAI.jpg" alt="Certyfikat_AgenciAI" width="600">
+  <img src="C:\Tomek\Conda\envs\portfolio\docs\Certyfikat\images\cert_AgenciAI.jpg" alt="Certyfikat_AgenciAI" width="300">
   <figcaption>Certyfikat ukończenia kursu Tworzenia Agentów Ai</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ komunikatory (np. *telegram*), witryna **ngrok**, **airflow**, **supabase - bazy
 Egzamin z zakresu podstawowego testów oprogramowania *10 lutego 2022 roku*. Otrzymałem dyplom o numerze: **86088**
 
 <figure markdown="1">
-  <img src="C:\Tomek\Conda\envs\portfolio\docs\Certyfikat\images\Cert_ISTQB_FL.jpg" alt="Certyfikat_ISTQB" width="600">
+  <img src="C:\Tomek\Conda\envs\portfolio\docs\Certyfikat\images\Cert_ISTQB_FL.jpg" alt="Certyfikat_ISTQB" width="300">
   <figcaption>Certyfikat ISTQB FL</figcaption>
 </figure>
 
@@ -39,6 +39,6 @@ Egzamin z zakresu podstawowego testów oprogramowania *10 lutego 2022 roku*. Otr
 To zaświadczenie odbycia 100-godzinnego kursu programowania JAVA jaki odbyłem we *wrześniu 2014 roku*.
 
 <figure markdown="1">
-  <img src="C:\Tomek\Conda\envs\portfolio\docs\Certyfikat\images\Cert_EXPOSE.jpg" alt="Certyfikat_100hjava" width="600">
+  <img src="C:\Tomek\Conda\envs\portfolio\docs\Certyfikat\images\Cert_EXPOSE.jpg" alt="Certyfikat_100hjava" width="300">
   <figcaption>Certyfikat 100hjava</figcaption>
 </figure>
