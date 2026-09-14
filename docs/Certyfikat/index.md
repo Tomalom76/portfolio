@@ -8,7 +8,7 @@ praktyczne modelowanie ML/DL, metody obsługi sieciowej tych modeli MLFlow, Lang
 różnych modeli współczesnego AI, typu LLM we wszystkich zakresach, np Text-Speech, text-obraz itp.
 
 <figure markdown="1">
-  <img src="C:\Tomek\Conda\envs\portfolio\docs\Certyfikat\images\Cert_Data_Science.pdf" alt="Certyfikat" width="600">
+  <img src="C:\Tomek\Conda\envs\portfolio\docs\Certyfikat\images\Data_science.jpg" alt="Certyfikat_Data_science" width="600">
   <figcaption>Certyfikat ukończenia kursu Data Science</figcaption>
 </figure>
 
