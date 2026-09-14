@@ -21,5 +21,5 @@ komunikatory, witryny ngrok, airflow, supabase - bazy wektorowe, webhook w zasto
 
 <figure markdown="1">
   <img src="C:\Tomek\Conda\envs\portfolio\docs\Certyfikat\images\cert_AgenciAI.jpg" alt="Certyfikat_Data_science" width="600">
-  <figcaption>Certyfikat ukończenia kursu Data Science</figcaption>
+  <figcaption>Certyfikat ukończenia kursu Tworzenia Agentów Ai</figcaption>
 </figure>
